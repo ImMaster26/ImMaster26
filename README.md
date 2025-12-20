@@ -1,16 +1,44 @@
-## Hi there 👋
+## 👋 Ciao, sono Armando
 
-<!--
-**ImMaster26/ImMaster26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sono uno studente di Informatica presso l'Università degli Studi di Napoli Federico II (UniNa).  
+Mi interessa lo sviluppo web e mi piace unire programmazione, design e comunicazione digitale per creare progetti chiari e funzionali.
 
-Here are some ideas to get you started:
+📚 Attualmente sto approfondendo:
+- sviluppo web front-end e back-end
+- progettazione di interfacce grafiche e user experience
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+
+
+<table align="center">
+<tr>
+<td align="center" style="padding-right: 20px;">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ImMaster26&show_icons=true&theme=dark)
+
+</td>
+<td align="center" style="padding-left: 20px;">
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ImMaster26&layout=compact&theme=dark)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠 Linguaggi & Tecnologie
+
+<p align="center">
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
+
+---
