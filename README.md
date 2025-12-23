@@ -1,7 +1,7 @@
 ## 👋 Ciao, sono Armando
 
 Sono uno studente di Informatica presso l'Università degli Studi di Napoli Federico II (UniNa).  
-Mi interessa lo sviluppo web e mi piace unire programmazione, design e comunicazione digitale per creare progetti chiari e funzionali.
+Mi interessa lo sviluppo web e mi piace unire programmazione ed design  per creare progetti chiari e funzionali.
 
 📚 Attualmente sto approfondendo:
 - sviluppo web front-end e back-end
