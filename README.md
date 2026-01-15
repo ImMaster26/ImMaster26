@@ -1,12 +1,12 @@
 ## 👋 Ciao, sono Armando
 
-Sono uno studente di Informatica presso l'Università degli Studi di Napoli Federico II (UniNa).  
+Classe 2003, sono uno studente di Informatica presso l'Università degli Studi di Napoli Federico II (UniNa).  
 Mi interessa lo sviluppo web e mi piace unire programmazione ed design  per creare progetti chiari e funzionali.
 
 📚 Attualmente sto approfondendo:
 - sviluppo web front-end e back-end
 - progettazione di applicazioni con interfacce grafiche e user experience
-
+. cybersecurity
 ---
 
 
@@ -14,12 +14,12 @@ Mi interessa lo sviluppo web e mi piace unire programmazione ed design  per crea
 <tr>
 <td align="center" style="padding-right: 20px;">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ImMaster26&show_icons=true&theme=dark)
+![GitHub Stats](https://git-hub-stats-card-generator.vercel.app/api/svg?username=ImMaster26)
 
 </td>
 <td align="center" style="padding-left: 20px;">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ImMaster26&layout=compact&theme=dark)
+![Top Languages](https://git-hub-stats-card-generator.vercel.app/api/svg?username=ImMaster26&type=languages)
 
 </td>
 </tr>
