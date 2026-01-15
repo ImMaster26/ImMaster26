@@ -14,7 +14,7 @@ Mi interessa lo sviluppo web e mi piace unire programmazione ed design  per crea
 <tr>
 <td align="center" style="padding-right: 20px;">
 
-![GitHub Stats](https://git-hub-stats-card-generator.vercel.app/api/svg?username=ImMaster26)
+[![Pranesh's GitHub stats-Dark](https://github-readme-stats-fast.vercel.app/api?username=ImMaster26&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/Pranesh-2005/github-readme-stats#gh-dark-mode-only)
 
 </td>
 <td align="center" style="padding-left: 20px;">
