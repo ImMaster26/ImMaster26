@@ -6,7 +6,7 @@ Mi interessa lo sviluppo web e mi piace unire programmazione ed design  per crea
 📚 Attualmente sto approfondendo:
 - sviluppo web front-end e back-end
 - progettazione di applicazioni con interfacce grafiche e user experience
-. cybersecurity
+- cybersecurity
 ---
 
 
